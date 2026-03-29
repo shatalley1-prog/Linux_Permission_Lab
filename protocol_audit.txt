@@ -1,9 +1,0 @@
-=== Protocol Audit - Session 06 ===
-Mission: Operation Hidden Door
-
-Phase 1 - Real Google IP (via dig):
-74.125.134.101
-
-Phase 2 - Hidden Service:
-Port: 900
-Server: Metadata Server for VM
